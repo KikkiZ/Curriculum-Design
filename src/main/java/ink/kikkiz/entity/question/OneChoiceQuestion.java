@@ -1,7 +1,5 @@
 package ink.kikkiz.entity.question;
 
-import java.util.Objects;
-
 /**
  * @author KikkiZ
  */
