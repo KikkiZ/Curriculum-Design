@@ -399,7 +399,7 @@ public class Main implements IScene {
     }
 
     //添加考题
-    public void addQuestionMethod() {
+    private void addQuestionMethod() {
         Stage stage = new Stage();
 
         ToggleGroup group = new ToggleGroup();
