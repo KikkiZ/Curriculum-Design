@@ -116,6 +116,18 @@ CREATE TABLE `users_data`  (
 -- ----------------------------
 -- Records of users_data
 -- ----------------------------
-
+INSERT INTO `users_data` VALUES (1, 'admin', 'admin');
+INSERT INTO `users_data` VALUES (2, 'kikki', '111111');
+INSERT INTO `users_data` VALUES (3, '唐洋', '123456');
+INSERT INTO `users_data` VALUES (4, '吉吉', '123123');
+INSERT INTO `users_data` VALUES (5, '毛毛', '111');
+INSERT INTO `users_data` VALUES (6, '桐人', '123');
+INSERT INTO `users_data` VALUES (7, '亚斯娜', '999');
+INSERT INTO `users_data` VALUES (8, '爱丽丝', '987');
+INSERT INTO `users_data` VALUES (9, '优吉欧', '555');
+INSERT INTO `users_data` VALUES (10, '茅场晶彦', '666');
+INSERT INTO `users_data` VALUES (11, '噜啦嘞', 'lalala');
+INSERT INTO `users_data` VALUES (12, '哈哈哈', 'hhh');
+INSERT INTO `users_data` VALUES (13, '1', '1');
 
 SET FOREIGN_KEY_CHECKS = 1;
